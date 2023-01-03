@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zainab Ajumobi. Self taught Frontend Developerand Programming Enthusiast.
+- 👋 Hi, I’m Zainab Ajumobi. Self taught Frontend Developer and Programming Enthusiast.
 - 👀 I’m interested in web technologies, full stack web development and software engineering.
 - 🌱 I’m currently learning how to use Firebase, GraphQL & Testing with Jest
-- 💞️ I’m looking to collaborate website/web applications development projects.
+- 💞️ I’m looking to collaborate on website/web applications development projects.
 - 📫 Reach me on Twitter @zaenab_x or send a mail to ajumobizainab@gmail.com
 
 <!---
