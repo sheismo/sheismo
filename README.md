@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Zainab Ajumobi. Self taught Frontend Developer and Programmer.
-- 💞️ My Stack includes HTML,CSS & Javacript, Vue.js, Vuex & Pinia, TailwindCSS & Sass
+- 👋 Hi! I’m Zainab Ajumobi, Frontend Developer and Programmer.
+- 💞️ My Dev stack includes HTML,CSS & Javacript, Vue.js, Vuex & Pinia, TailwindCSS, Sass & TypeScript
 - 👀 I’m interested in web technologies, full stack web development and software engineering.
 - 🌱 I’m currently learning how to use Firebase, GraphQL, as well as  Vitest & Jest for Unit Testing
 - 💞️ I’m looking to collaborate on web and software development projects.
