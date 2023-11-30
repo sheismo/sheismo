@@ -1,7 +1,7 @@
-- 👋 Hi! I’m Zainab Ajumobi, a Frontend Web Developer.
-- 💞️ My dev stack includes Javacript, Vue.js, TailwindCSS, Sass & TypeScript
+- 👋 Hi! I’m Zainab Ajumobi, a Fullstack Web Developer.
+- 💞️ My dev stack includes Javacript, PHP, Vue.js, Laravel, TailwindCSS, Sass & TypeScript
 - 👀 I’m interested in web technologies, full stack web development and software engineering.
-- 🌱 I’m currently learning how to use Firebase, GraphQL, as well as  Vitest & Jest for Unit Testing
+- 🌱 I’m currently learning Automated Testing and how to use Firebase & GraphQL.
 - 💞️ I’m looking to collaborate on web and software development projects.
 - 📫 Reach me on Twitter @zaenab_x or send a mail to ajumobizainab@gmail.com
 
