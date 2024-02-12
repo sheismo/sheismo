@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Automated Testing, and how to use GraphQL.
 - 💞️ I’m looking to collaborate on web and software development projects.
 - 📫 Reach me on Twitter @zaenab_x or send a mail to ajumobizainab@gmail.com
+- 👀 Check out my portfolio:  https://sheismo.github.io/my-portfolio/
 
 <!---
 sheismo/sheismo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
